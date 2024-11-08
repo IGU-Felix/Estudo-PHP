@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+    <signos>
+        <signo>
+            <dataInicio>21/03</dataInicio>
+            <dataFim>20/04</dataFim>
+            <signoNome>Áries</signoNome>
+            <descricao>é Áries</descricao>
+        </signo>
+
+        <signo>
+            <dataInicio>21/04</dataInicio>
+            <dataFim>20/05</dataFim>
+            <signoNome>Touro</signoNome>
+            <descricao>é Touro</descricao>
+        </signo>
+
+        <signo>
+            <dataInicio>21/05</dataInicio>
+            <dataFim>20/06</dataFim>
+            <signoNome>Gêmeos</signoNome>
+            <descricao>é Gêmeos</descricao>
+        </signo>
+
+        <signo>
+            <dataInicio>21/06</dataInicio>
+            <dataFim>22/07</dataFim>
+            <signoNome>Câncer</signoNome>
+            <descricao>é Câncer</descricao>
+        </signo>
+
+        <signo>
+            <dataInicio>23/07</dataInicio>
+            <dataFim>22/08</dataFim>
+            <signoNome>Leão</signoNome>
+            <descricao>é Leão</descricao>
+        </signo>
+
+        <signo>
+            <dataInicio>23/08</dataInicio>
+            <dataFim>22/09</dataFim>
+            <signoNome>Virgem</signoNome>
+            <descricao>é Virgem</descricao>
+        </signo>
+
+        <signo>
+            <dataInicio>23/09</dataInicio>
+            <dataFim>22/10</dataFim>
+            <signoNome>Libra</signoNome>
+            <descricao>é Libra</descricao>
+        </signo>
+
+        <signo>
+            <dataInicio>23/10</dataInicio>
+            <dataFim>21/11</dataFim>
+            <signoNome>Escorpião</signoNome>
+            <descricao>é Escorpião</descricao>
+        </signo>
+            
+        <signo>
+            <dataInicio>22/11</dataInicio>
+            <dataFim>21/12</dataFim>
+            <signoNome>Sagitário</signoNome>
+            <descricao>é Sagitário</descricao>
+        </signo>
+
+        <signo>
+            <dataInicio>22/12</dataInicio>
+            <dataFim>19/01</dataFim>
+            <signoNome>Capricórino</signoNome>
+            <descricao>é Capricórino</descricao>
+        </signo>
+
+        <signo>
+            <dataInicio>20/01</dataInicio>
+            <dataFim>18/02</dataFim>
+            <signoNome>Aquário</signoNome>
+            <descricao>é Aquário</descricao>
+            </signo>
+
+        <signo>
+            <dataInicio>19/02</dataInicio>
+            <dataFim>20/03</dataFim>
+            <signoNome>Peixes</signoNome>
+            <descricao>é Peixes</descricao>
+        </signo>
+
+    </signos>
